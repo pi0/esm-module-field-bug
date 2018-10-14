@@ -1,0 +1,7 @@
+{
+    "main": "index.js",
+    "module": "index.mjs",
+    "dependencies": {
+        "esm": "^3.0.84"
+    }
+}
